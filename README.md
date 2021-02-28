@@ -1,3 +1,3 @@
 expanding_cards project
 
-Live Demo link : https://ritesh29-web.github.io/expanding_cards/
+Live Demo link : https://the-lone-coder.github.io/expanding_cards/
